@@ -2,8 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	display: grid;
-	grid-template-rows: repeat(100px, 2fr);
-	grid-template-columns: repeat(100px, 2fr);
+	grid-template-rows: repeat(100px 100px);
+	grid-template-columns: repeat(100px 100fr);
 	height: 200px;
 	width: 200px;
 	gap: 5px;
